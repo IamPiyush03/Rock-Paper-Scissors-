@@ -24,8 +24,4 @@ Click on your choice (Stone, Paper, or Scissors) to make your move. The computer
 - **style.css**: Contains the styles for the game.
 - **app.js**: Contains the game logic.
 
-## License
-
-This project is licensed under the MIT License.
-
 Enjoy the game!
