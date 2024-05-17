@@ -1,5 +1,5 @@
-﻿# Rock-Paper-Scissors-
-# Stone, Paper, Scissors Game
+
+# Rock, Paper, Scissors Game
 
 Welcome to the Stone, Paper, Scissors Game! This project is a simple interactive game where you can play against the computer. It is built using HTML, CSS, and JavaScript.
 
